@@ -9,6 +9,7 @@
       expandable="{device>/system/phone}"
 		expanded="{= !${device>/system/phone} }">
       <content>
+         <Text text="Hello World"></Text>
         <Button
          id="helloDialogButton"
          icon="sap-icon://world"
