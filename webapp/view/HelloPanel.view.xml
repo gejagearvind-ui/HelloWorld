@@ -8,7 +8,8 @@
       width="auto"
       expandable="{device>/system/phone}"
 		expanded="{= !${device>/system/phone} }">
-      <content>         
+      <content>        
+        <Text text="Aravind"></Text>  
         <Button
          id="helloDialogButton"
          icon="sap-icon://world"
